@@ -1,6 +1,6 @@
 import yaml
 from src.exception import MoneyLaunderingException
-from src.deepClassifier.logger import logging
+from src.noobTunerLLM.logger import logging
 from src.logger import logging
 import os,sys
 import numpy as np
